@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+.para{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: wheat;
+    font-style: italic;
+    text-decoration: overline;
+}
+.about{
+    
+    color: aliceblue;
+    font-size: 30px;
+    font-family: 'Lobster',cursive;
+    margin: 33px;
+    padding: auto;
+    
+}
+h3{
+    text-decoration: overline;
+    color: aquamarine;
+}
+h5{
+    text-align: center;
+    color: aqua;
+    font-size: 35px;
+}
+.quote{
+    color: lightpink;
+}
+a{
+    position: absolute;
+    right: 34px;
+    top: 20px;
+    display: inline-block;
+    font-size: 24px;
+    color: aliceblue;
+    text-decoration: none;
+    cursor: pointer;
+}
+a:hover{
+    color: black;
+    background-color: wheat;
+    text-decoration: underline;
+}
